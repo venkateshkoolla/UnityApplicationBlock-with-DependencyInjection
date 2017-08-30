@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubwayCOM", "UnityApplicationBlock\SubwayCOM.csproj", "{B7693818-0525-4B3E-8D94-5F13304557A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{3813F055-26D2-447F-BC27-587ABA821032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapLogicAPI", "SnapLogicAPI\SnapLogicAPI.csproj", "{E62A8879-4D9F-41A1-B692-717BD347EDE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubwayCOMTests1", "SubwayCOMTests1\SubwayCOMTests1.csproj", "{919C9AE6-5AA9-43ED-931B-D76EA634F919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7693818-0525-4B3E-8D94-5F13304557A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7693818-0525-4B3E-8D94-5F13304557A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7693818-0525-4B3E-8D94-5F13304557A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7693818-0525-4B3E-8D94-5F13304557A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3813F055-26D2-447F-BC27-587ABA821032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3813F055-26D2-447F-BC27-587ABA821032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3813F055-26D2-447F-BC27-587ABA821032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3813F055-26D2-447F-BC27-587ABA821032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E62A8879-4D9F-41A1-B692-717BD347EDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62A8879-4D9F-41A1-B692-717BD347EDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62A8879-4D9F-41A1-B692-717BD347EDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62A8879-4D9F-41A1-B692-717BD347EDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919C9AE6-5AA9-43ED-931B-D76EA634F919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919C9AE6-5AA9-43ED-931B-D76EA634F919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919C9AE6-5AA9-43ED-931B-D76EA634F919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919C9AE6-5AA9-43ED-931B-D76EA634F919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
